@@ -1,0 +1,12 @@
+const String homeRoute = "/home";
+const String dispatchRoute = "/dispatch";
+const String consumerRoute = "/consumer";
+const String newConsumerRoute = "/newConsumer";
+const String newConsumerDetailRoute = "/newConsumerDetail";
+const String existentConsumerRoute = "/existentConsumer";
+const String existentConsumerDetailRoute = "/existentConsumerDetail";
+const String reportRoute = "/report";
+const String reportDetailRoute = "/reportDetail";
+const String requestStockRoute = "/requestStock";
+const String productRoute = "/product";
+const String summaryRoute = "/summary";
